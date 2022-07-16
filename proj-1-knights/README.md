@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50AI/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/ai/2020">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -17,11 +17,15 @@ In a Knights and Knaves puzzle, the following information is given: Each charact
 The objective of the puzzle is, given a set of sentences spoken by each of the characters, determine, for each character, whether that character is a knight or a knave.
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-ai-knights
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/trunk/proj-1-knights
 ```
-Now run the program.
+Change directory
+```
+cd proj-1-knights
+```
+Now run the script
 ```
 python puzzle.py
 ```
