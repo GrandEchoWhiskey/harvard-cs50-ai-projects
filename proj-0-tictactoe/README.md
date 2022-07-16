@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50AI/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/ai/2020">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -22,6 +22,24 @@ Inside of the tictactoe directory, run below command to install pygame.
 pip3 install -r requirements.txt
 ```
 Now run the program.
+```
+python runner.py
+```
+
+### Getting Started:
+Export this directory using SVN.
+```
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/trunk/proj-0-tictactoe
+```
+Change directory
+```
+cd proj-0-tictactoe
+```
+Install requirements
+```
+pip3 install -r requirements.txt
+```
+Now run the script
 ```
 python runner.py
 ```
