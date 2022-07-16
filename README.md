@@ -50,18 +50,18 @@ Name | Description | Technology
 [harvard_link]:     https://cs50.harvard.edu/ai/2020
 [certificate_link]: https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54
 
-[degrees_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-ai-degrees
-[tictactoe_link]:   https://github.com/GrandEchoWhiskey/harvard-cs50-ai-tictactoe
-[knights_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-ai-knights
-[minesweeper_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-minesweeper
-[pagerank_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-ai-pagerank
-[heredity_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-ai-heredity
-[crossword_link]:   https://github.com/GrandEchoWhiskey/harvard-cs50-ai-crossword
-[shopping_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-ai-shopping
-[nim_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-ai-nim
-[traffic_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-ai-traffic
-[parser_link]:      https://github.com/GrandEchoWhiskey/harvard-cs50-ai-parser
-[questions_link]:   https://github.com/GrandEchoWhiskey/harvard-cs50-ai-questions
+[degrees_link]:     proj-0-degrees
+[tictactoe_link]:   proj-0-tictactoe
+[knights_link]:     proj-1-knights
+[minesweeper_link]: proj-1-minesweeper
+[pagerank_link]:    proj-2-pagerank
+[heredity_link]:    proj-2-heredity
+[crossword_link]:   proj-3-crossword
+[shopping_link]:    proj-4-shopping
+[nim_link]:         proj-4-nim
+[traffic_link]:     proj-5-traffic
+[parser_link]:      proj-6-parser
+[questions_link]:   proj-6-questions
 
 [py_img]:   https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
 [tf_img]:   https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/tensorflow.png
