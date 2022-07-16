@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50AI/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/ai/2020">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -20,15 +20,15 @@ But this definition isn’t perfect: if someone wants to make their page seem mo
 For that reason, the PageRank algorithm was created by Google’s co-founders (including Larry Page, for whom the algorithm was named). In PageRank’s algorithm, a website is more important if it is linked to by other important websites, and links from less important websites have their links weighted less. 
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-ai-pagerank
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/trunk/proj-2-pagerank
 ```
-Now run the program.
+Change directory
 ```
-python pagerank.py corpus
+cd proj-2-pagerank
 ```
-For example:
+Now run the script
 ```
-python pagerank.py corpus0
+python pagerank.py CORPUS
 ```
