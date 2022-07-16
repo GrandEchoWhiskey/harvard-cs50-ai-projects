@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50AI/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/ai/2020">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -15,15 +15,15 @@ Mutated versions of the GJB2 gene are one of the leading causes of hearing impai
 Every child inherits one copy of the GJB2 gene from each of their parents. If a parent has two copies of the mutated gene, then they will pass the mutated gene on to the child; if a parent has no copies of the mutated gene, then they will not pass the mutated gene on to the child; and if a parent has one copy of the mutated gene, then the gene is passed on to the child with probability 0.5. After a gene is passed on, though, it has some probability of undergoing additional mutation: changing from a version of the gene that causes hearing impairment to a version that doesn’t, or vice versa.
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-ai-heredity
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/trunk/proj-2-heredity
 ```
-Now run the program.
+Change directory
 ```
-python heredity.py data.csv
+cd proj-2-heredity
 ```
-For example:
+Now run the script
 ```
-python heredity.py data/family0.csv
+python heredity.py FAMILY.csv
 ```
